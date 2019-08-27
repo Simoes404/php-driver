@@ -31,7 +31,6 @@
 #pragma message("syslog will be disabled on Windows")
 #endif
 
-#include <ext/standard/info.h>
 #include <fcntl.h>
 #include <time.h>
 #include <uv.h>
